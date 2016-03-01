@@ -1,0 +1,220 @@
+
+.contenedorSecuencia{
+    border: 9px double #F2F2F2;
+}
+
+.reaccion{
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    -moz-transition: all 0.50s linear;
+    -o-transition: all 0.50s linear;
+    transition: all 0.50s linear;
+}
+
+.reaccion:hover{
+    -webkit-transform: rotate(0deg) scale(1.2);/*rota imagenes, para webkit*/
+    -moz-transform: rotate(0deg) scale(1.2) ;/*rota imagenes, para mozilla*/
+    -o-transform:rotate(0deg) scale(1.2) ;/*rota imagenes, para opera*/
+    transform:rotate(0deg) scale(1.2) ;/*rota imagenes, estandar*/
+}
+
+.paso1{
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    -moz-transition: all 0.50s linear;
+    -o-transition: all 0.50s linear;
+    transition: all 0.50s linear;
+}
+
+.paso1:hover{
+    -webkit-transform: rotate(0deg) scale(1.2);/*rota imagenes, para webkit*/
+    -moz-transform: rotate(0deg) scale(1.2) ;/*rota imagenes, para mozilla*/
+    -o-transform:rotate(0deg) scale(1.2) ;/*rota imagenes, para opera*/
+    transform:rotate(0deg) scale(1.2) ;/*rota imagenes, estandar*/
+}
+
+.paso2{
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    -moz-transition: all 0.50s linear;
+    -o-transition: all 0.50s linear;
+    transition: all 0.50s linear;
+}
+
+.paso2:hover{
+    -webkit-transform: rotate(0deg) scale(1.2);/*rota imagenes, para webkit*/
+    -moz-transform: rotate(0deg) scale(1.2) ;/*rota imagenes, para mozilla*/
+    -o-transform:rotate(0deg) scale(1.2) ;/*rota imagenes, para opera*/
+    transform:rotate(0deg) scale(1.2) ;/*rota imagenes, estandar*/
+}
+
+.paso3{
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    -moz-transition: all 0.50s linear;
+    -o-transition: all 0.50s linear;
+    transition: all 0.50s linear;
+}
+
+.paso3:hover{
+    -webkit-transform: rotate(0deg) scale(1.2);/*rota imagenes, para webkit*/
+    -moz-transform: rotate(0deg) scale(1.2) ;/*rota imagenes, para mozilla*/
+    -o-transform:rotate(0deg) scale(1.2) ;/*rota imagenes, para opera*/
+    transform:rotate(0deg) scale(1.2) ;/*rota imagenes, estandar*/
+}
+
+.citocinesis{
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    -moz-transition: all 0.50s linear;
+    -o-transition: all 0.50s linear;
+    transition: all 0.50s linear;
+}
+
+.citocinesis:hover{
+    -webkit-transform: rotate(0deg) scale(1.2);/*rota imagenes, para webkit*/
+    -moz-transform: rotate(0deg) scale(1.2) ;/*rota imagenes, para mozilla*/
+    -o-transform:rotate(0deg) scale(1.2) ;/*rota imagenes, para opera*/
+    transform:rotate(0deg) scale(1.2) ;/*rota imagenes, estandar*/
+}
+
+
+
+
+.profaseGrafica{
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    -moz-transition: all 0.50s linear;
+    -o-transition: all 0.50s linear;
+    transition: all 0.50s linear;
+}
+
+.profaseGrafica:hover{
+    -webkit-transform: rotate(0deg) scale(1.2);/*rota imagenes, para webkit*/
+    -moz-transform: rotate(0deg) scale(1.2) ;/*rota imagenes, para mozilla*/
+    -o-transform:rotate(0deg) scale(1.2) ;/*rota imagenes, para opera*/
+    transform:rotate(0deg) scale(1.2) ;/*rota imagenes, estandar*/
+}
+
+.metafaseGrafica{
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    -moz-transition: all 0.50s linear;
+    -o-transition: all 0.50s linear;
+    transition: all 0.50s linear;
+}
+
+.metafaseGrafica:hover{
+    -webkit-transform: rotate(0deg) scale(1.2);/*rota imagenes, para webkit*/
+    -moz-transform: rotate(0deg) scale(1.2) ;/*rota imagenes, para mozilla*/
+    -o-transform:rotate(0deg) scale(1.2) ;/*rota imagenes, para opera*/
+    transform:rotate(0deg) scale(1.2) ;/*rota imagenes, estandar*/
+}
+
+.anafaseGrafica{
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    -moz-transition: all 0.50s linear;
+    -o-transition: all 0.50s linear;
+    transition: all 0.50s linear;
+}
+
+.anafaseGrafica:hover{
+    -webkit-transform: rotate(0deg) scale(1.2);/*rota imagenes, para webkit*/
+    -moz-transform: rotate(0deg) scale(1.2) ;/*rota imagenes, para mozilla*/
+    -o-transform:rotate(0deg) scale(1.2) ;/*rota imagenes, para opera*/
+    transform:rotate(0deg) scale(1.2) ;/*rota imagenes, estandar*/
+}
+
+.telofaseGrafica{
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    -moz-transition: all 0.50s linear;
+    -o-transition: all 0.50s linear;
+    transition: all 0.50s linear;
+}
+
+.telofaseGrafica:hover{
+    -webkit-transform: rotate(0deg) scale(1.2);/*rota imagenes, para webkit*/
+    -moz-transform: rotate(0deg) scale(1.2) ;/*rota imagenes, para mozilla*/
+    -o-transform:rotate(0deg) scale(1.2) ;/*rota imagenes, para opera*/
+    transform:rotate(0deg) scale(1.2) ;/*rota imagenes, estandar*/
+}
+
+.citocinesisGrafica{
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    -moz-transition: all 0.50s linear;
+    -o-transition: all 0.50s linear;
+    transition: all 0.50s linear;
+}
+
+.citocinesisGrafica:hover{
+    -webkit-transform: rotate(0deg) scale(1.2);/*rota imagenes, para webkit*/
+    -moz-transform: rotate(0deg) scale(1.2) ;/*rota imagenes, para mozilla*/
+    -o-transform:rotate(0deg) scale(1.2) ;/*rota imagenes, para opera*/
+    transform:rotate(0deg) scale(1.2) ;/*rota imagenes, estandar*/
+}
+
+
+
+
+.coligacionSecuencia01{
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    -moz-transition: all 0.50s linear;
+    -o-transition: all 0.50s linear;
+    transition: all 0.50s linear;
+}
+
+.coligacionSecuencia01:hover{
+    -webkit-transform: rotate(0deg) scale(1.2);/*rota imagenes, para webkit*/
+    -moz-transform: rotate(0deg) scale(1.2) ;/*rota imagenes, para mozilla*/
+    -o-transform:rotate(0deg) scale(1.2) ;/*rota imagenes, para opera*/
+    transform:rotate(0deg) scale(1.2) ;/*rota imagenes, estandar*/
+}
+
+
+.coligacionSecuencia02{
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    -moz-transition: all 0.50s linear;
+    -o-transition: all 0.50s linear;
+    transition: all 0.50s linear;
+}
+
+.coligacionSecuencia02:hover{
+    -webkit-transform: rotate(0deg) scale(1.2);/*rota imagenes, para webkit*/
+    -moz-transform: rotate(0deg) scale(1.2) ;/*rota imagenes, para mozilla*/
+    -o-transform:rotate(0deg) scale(1.2) ;/*rota imagenes, para opera*/
+    transform:rotate(0deg) scale(1.2) ;/*rota imagenes, estandar*/
+}
+
+
+.coligacionSecuencia03{
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    -moz-transition: all 0.50s linear;
+    -o-transition: all 0.50s linear;
+    transition: all 0.50s linear;
+}
+
+.coligacionSecuencia03:hover{
+    -webkit-transform: rotate(0deg) scale(1.2);/*rota imagenes, para webkit*/
+    -moz-transform: rotate(0deg) scale(1.2) ;/*rota imagenes, para mozilla*/
+    -o-transform:rotate(0deg) scale(1.2) ;/*rota imagenes, para opera*/
+    transform:rotate(0deg) scale(1.2) ;/*rota imagenes, estandar*/
+}
